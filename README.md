@@ -1,3 +1,3 @@
 # Login con efecto de transparencia #
 
-![tumb](./img1.png)
+![tumb](./media/img1.png)
